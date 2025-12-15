@@ -1,0 +1,9 @@
+python==3.12
+streamlit==1.29.0
+pandas==2.1.1
+python-dotenv==1.0.1
+langchain==0.1.137
+chromadb==0.4.6
+huggingface-hub==0.17.3
+sentence-transformers==2.2.2
+openai==1.29.0
